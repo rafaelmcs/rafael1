@@ -1,0 +1,13 @@
+// Modelo de Cadastro
+consola . log  ( "Bem vindo!" ) ;
+consola . log  ( "Insira sua Idade:" ) ;
+if  ( 21  >=  30 )  console . log  ( "Cadastro validado!" ) ;
+senão  consola . log  ( "Cadastro não concedido." )
+
+var  TotalDeCadastro  = 0
+
+while  ( Cadastros  <  100 )  {  console . log ( "Cadastro permitido" ) ;
+quantidade De Cadastro +
+
+}
+if  ( Cadastro  >=  50 )  console . log  ( "Cadastro reservas" ) ;
